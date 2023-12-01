@@ -1,5 +1,5 @@
-# aplikasi berbasis web 
-menggunakan bahasa pemograman Html.
+# aplikasi Online shop berbasis web 
+menggunakan Html.
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
@@ -4445,4 +4445,5 @@ function azion_translated_mapper(t){var e=t;return $(azion_easy_text_picker[0]+t
 
 # Tampilan keranjang
 # <img width="368" alt="image" src="https://github.com/riskibowo/Tgs.rpl/assets/115862112/705533d1-2db0-407e-bd13-a706ad5837c7">
+# maaf belum selesi :(
 
