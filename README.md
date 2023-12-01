@@ -4441,3 +4441,7 @@ function azion_translated_mapper(t){var e=t;return $(azion_easy_text_picker[0]+t
 ```
 # Tampilan
 ![image](https://github.com/riskibowo/Tgs.rpl/assets/115862112/540a974a-59a3-4569-99e0-8b2c0ffd762a)
+
+Tampilan keranjang
+<img width="368" alt="image" src="https://github.com/riskibowo/Tgs.rpl/assets/115862112/705533d1-2db0-407e-bd13-a706ad5837c7">
+
