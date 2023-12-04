@@ -4440,5 +4440,7 @@ function azion_translated_mapper(t){var e=t;return $(azion_easy_text_picker[0]+t
 </body>
 </html>
 ```
+https://riskistore13.blogspot.com/
+
 # maaf belum selesai pak :(
 
